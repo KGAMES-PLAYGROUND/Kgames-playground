@@ -1,7 +1,7 @@
-baseURL = "https://zenlunaris.github.io/"
+baseURL = "https://kgames-playground.github.io/"
 languageCode = "en-us"
-title = "Zenlunaris"
-#theme = "zenminimal"
+title = "KGames Playground"
+theme = "zenminimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 defaultContentLanguage = "en"
